@@ -1,0 +1,19 @@
+# Ignore all directories, and all sub-directories, and it's contents
+*/*
+
+# Ignore all files in the current directory
+*.*
+
+# Project template setup (add additional entries here for project-specific needs)
+!/src/
+!/src/*
+!/test/
+!/test/*
+!/data/
+!/data/*
+!/.gitignore
+!/environment.yaml
+!/README.md
+
+
+

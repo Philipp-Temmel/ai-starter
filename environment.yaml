@@ -1,0 +1,23 @@
+name: ai-starter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - opencv
+  - python
+  - pandas
+  - matplotlib
+  - numpy
+  - imgaug
+  - scikit-learn
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - tensorflow-gpu
+  - tqdm
+  - albumentations
+  - seaborn
+  - scipy
+  - xlrd
+  - pytorch
+prefix: C:\Users\username\.conda\envs\ai-starter
+
